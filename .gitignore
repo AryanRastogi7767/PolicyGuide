@@ -1,0 +1,63 @@
+# Python-related files and directories
+__pycache__/
+*.pyc
+*.pyd
+*.egg
+.venv/  # Or venv/, env/, depending on your virtual environment name
+venv/
+env/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (consider if you want to track these - see explanation below)
+*.csv  # If you *don't* want to track CSV files, uncomment this line
+# accordion_tables_links.csv  # If you *do* want to track this specific CSV
+# all_page_links.csv       # If you *do* want to track this specific CSV
+
+# macOS specific
+.DS_Store
+
+# Log files (if any)
+*.log
+
+# Temporary files
+*~
+\#*
+*.tmp
+
+# System files (generally avoid tracking these)
+.idea/  # IntelliJ IDEA project files
+.vscode/ # VS Code project files
+.mypy_cache/ # Mypy cache files
+
+# OS-specific files
+Thumbs.db  # Windows thumbnail cache
+
+# Files/directories related to specific tools or libraries (customize as needed)
+.pytest_cache/ # pytest cache
+.coverage* # Coverage.py files
+
+# Sensitive information (API keys, passwords, etc.) - NEVER commit these!
+# config.ini
+# secrets.json
+# .env  # Environment variables file (use with extreme caution; better alternatives exist)
+
+# Example for specific large files or directories you don't want to track:
+# large_data_folder/
+# another_big_file.zip
+
+# If you are using a specific package manager (e.g., Poetry, Conda):
+.poetry/  # Poetry cache directory (if you don't commit the poetry.lock file)
+.conda/  # Conda cache directory (if you don't commit the environment.yml file)
+
+# Files related to the virtual environment
+pyvenv.cfg  # Virtual environment configuration file
+
+# Man pages (unlikely you need these in your repo)
+share/man/man1/
+
+# The confusing line - site-packages should *not* be in your repo
+lib/python3.12/site-packages/ # This line is likely a mistake and should be REMOVED from your repo.  You should *not* version control site-packages.

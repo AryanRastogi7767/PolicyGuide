@@ -9,7 +9,7 @@ env/
 dist/
 build/
 bin/
-
+policy_documents/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 

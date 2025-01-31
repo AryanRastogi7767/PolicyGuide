@@ -1,0 +1,3600 @@
+[
+    {
+        "type": "CompositeElement",
+        "element_id": "e4e018782e7da57ffc26cdb436d5d83b",
+        "text": "EILic LIFE INSURANCE CORPORATION OF INDIA\n\nCUSTOMER INFORMATION SHEET /KNOW YOUR POLICY\n\nThis document provides key information about your policy. You are also advised to go through your Policy Document.\n\nSl. Title Description in Simple Words Policy no. (Please refer to applicable Policy Clause Clause Number in next column) Number 1. Name of the LIC’s SARAL JEEVAN BIMA Part A Insurance Product (UIN:512N341V01) And Unique Identification Number (UIN) 2. Policy Number _____________________ Part A 3. Type of Insurance Pure Risk Part B - Policy Definitions 4. Basic Policy details Instalment Premium (Rs): __________ Schedule (Taxes, if any, as applicable from time to time are charged extra). Mode of premium payment: _______ Premium Payment Term: _________ Policy Term: __________ Basic Sum Assured (Rs): __________ Sum Assured on Death: For Regular premium or Limited premium payment policy, “Sum Assured on Death” is defined as the highest of: - 10 times of Annualised Premium; or - 105% of all Premiums Paid as on the date of death; or - Absolute amount assured to be paid on death. For Single premium policy, “Sum Assured on Death” is defined as the higher of: Schedule Schedule Schedule Schedule Condition 1.a of Part C\n\n125% of Single Premium.\n\nAbsolute amount assured to be paid\n\non death.\n\nAbsolute amount assured to be paid\n\non death shall be an amount equal to\n\nBasic Sum Assured.\n\n1\n\n5. 6. Riders opted, if any Policy Coverage / benefits payable Premiums referred shall not include any extra amount chargeable under the policy due to underwriting decision Not Applicable Benefits payable on death: 1) On death during the Waiting Period: Death Benefit payable, on death of the Life Assured, during the waiting period provided the policy is in-force shall be as under i) In case of Accidental Death equal to “Sum Assured on Death”. ii) In case of death due to other than accident, 100% of all Premiums paid excluding taxes, if any 2) On death after the expiry of Waiting Period: Death Benefit payable, on death of the Life Assured, after the expiry of Waiting Period but before the stipulated Date of Maturity, provided the policy is in-force shall be “Sum Assured on Death”. Benefit payable on maturity: No Maturity Benefit shall be payable. Surrender benefits: Surrender value is not applicable under this Policy. Policy Cancellation Value: Policy cancellation value shall be payable : a) upon the policyholder applying for the same before the stipulated date Condition 1.a of Part C Condition 1.b of Part C Condition 5 of Part D Condition 6",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-01-28T17:55:17",
+            "page_number": 1,
+            "text_as_html": "<table><thead><tr><th>Sl. no.</th><th rowspan=\"2\">Title Name of the Insurance Product And Unique Identification Number (UIN)</th><th rowspan=\"2\">Description in Simple Words (Please refer to applicable Policy Clause | Number in next column) | LIC’s SARAL JEEVAN BIMA (UIN:512N341V01)</th><th>Policy Clause Number</th></tr></thead><tbody><tr><td>1.</td><td>PartA</td></tr><tr><td>2.</td><td>Policy Number</td><td></td><td>Part A</td></tr><tr><td>3.</td><td>Type of Insurance Policy</td><td>Pure Risk</td><td>Part B - Definitions</td></tr><tr><td rowspan=\"6\">4.</td><td>Basic Policy details</td><td>Instalment Premium (Rs): (Taxes, if any, as applicable from time to time are charged extra).</td><td>Schedule</td></tr><tr><td></td><td>Mode of premium payment:</td><td>Schedule</td></tr><tr><td rowspan=\"4\"></td><td>Premium Payment Term:</td><td>Schedule</td></tr><tr><td>Basic Sum Assured (Rs): Sum Assured on Death:</td><td>Schedule</td></tr><tr><td>For Single premium policy, “Sum</td><td></td></tr><tr><td>Assured on Death’ is defined as the</td><td></td></tr></tbody></table>",
+            "orig_elements": [
+                {
+                    "type": "Image",
+                    "element_id": "029a39ec-0a14-42f5-b211-ac58879dbabe",
+                    "text": "EILic LIFE INSURANCE CORPORATION OF INDIA",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    158.33333333333331,
+                                    87.66665972222225
+                                ],
+                                [
+                                    158.33333333333331,
+                                    185.66666180555558
+                                ],
+                                [
+                                    389.66666875,
+                                    185.66666180555558
+                                ],
+                                [
+                                    389.66666875,
+                                    87.66665972222225
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 1
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "4700bb70-2561-414c-800b-93670de46ae9",
+                    "text": "CUSTOMER INFORMATION SHEET /KNOW YOUR POLICY",
+                    "metadata": {
+                        "detection_class_prob": 0.5546179413795471,
+                        "coordinates": {
+                            "points": [
+                                [
+                                    400.99999166666663,
+                                    229.34483337402344
+                                ],
+                                [
+                                    400.99999166666663,
+                                    264.4709109722224
+                                ],
+                                [
+                                    1247.8283566666667,
+                                    264.4709109722224
+                                ],
+                                [
+                                    1247.8283566666667,
+                                    229.34483337402344
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 1
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "cc8cef58-6362-4dbf-bd3c-a9f868a6e68c",
+                    "text": "This document provides key information about your policy. You are also advised to go through your Policy Document.",
+                    "metadata": {
+                        "detection_class_prob": 0.892280101776123,
+                        "coordinates": {
+                            "points": [
+                                [
+                                    229.903564453125,
+                                    350.4457702636719
+                                ],
+                                [
+                                    229.903564453125,
+                                    422.8042443055557
+                                ],
+                                [
+                                    1468.4964899599106,
+                                    422.8042443055557
+                                ],
+                                [
+                                    1468.4964899599106,
+                                    350.4457702636719
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 1
+                    }
+                },
+                {
+                    "type": "Table",
+                    "element_id": "feb44510-0f50-4244-9ccb-460c3da4e237",
+                    "text": "Sl. Title Description in Simple Words Policy no. (Please refer to applicable Policy Clause Clause Number in next column) Number 1. Name of the LIC’s SARAL JEEVAN BIMA Part A Insurance Product (UIN:512N341V01) And Unique Identification Number (UIN) 2. Policy Number _____________________ Part A 3. Type of Insurance Pure Risk Part B - Policy Definitions 4. Basic Policy details Instalment Premium (Rs): __________ Schedule (Taxes, if any, as applicable from time to time are charged extra). Mode of premium payment: _______ Premium Payment Term: _________ Policy Term: __________ Basic Sum Assured (Rs): __________ Sum Assured on Death: For Regular premium or Limited premium payment policy, “Sum Assured on Death” is defined as the highest of: - 10 times of Annualised Premium; or - 105% of all Premiums Paid as on the date of death; or - Absolute amount assured to be paid on death. For Single premium policy, “Sum Assured on Death” is defined as the higher of: Schedule Schedule Schedule Schedule Condition 1.a of Part C",
+                    "metadata": {
+                        "detection_class_prob": 0.8500421047210693,
+                        "coordinates": {
+                            "points": [
+                                [
+                                    131.73355102539062,
+                                    416.8583068847656
+                                ],
+                                [
+                                    131.73355102539062,
+                                    1901.7049560546875
+                                ],
+                                [
+                                    1453.7520751953125,
+                                    1901.7049560546875
+                                ],
+                                [
+                                    1453.7520751953125,
+                                    416.8583068847656
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "text_as_html": "<table><thead><tr><th>Sl. no.</th><th rowspan=\"2\">Title Name of the Insurance Product And Unique Identification Number (UIN)</th><th rowspan=\"2\">Description in Simple Words (Please refer to applicable Policy Clause | Number in next column) | LIC’s SARAL JEEVAN BIMA (UIN:512N341V01)</th><th>Policy Clause Number</th></tr></thead><tbody><tr><td>1.</td><td>PartA</td></tr><tr><td>2.</td><td>Policy Number</td><td></td><td>Part A</td></tr><tr><td>3.</td><td>Type of Insurance Policy</td><td>Pure Risk</td><td>Part B - Definitions</td></tr><tr><td rowspan=\"6\">4.</td><td>Basic Policy details</td><td>Instalment Premium (Rs): (Taxes, if any, as applicable from time to time are charged extra).</td><td>Schedule</td></tr><tr><td></td><td>Mode of premium payment:</td><td>Schedule</td></tr><tr><td rowspan=\"4\"></td><td>Premium Payment Term:</td><td>Schedule</td></tr><tr><td>Basic Sum Assured (Rs): Sum Assured on Death:</td><td>Schedule</td></tr><tr><td>For Single premium policy, “Sum</td><td></td></tr><tr><td>Assured on Death’ is defined as the</td><td></td></tr></tbody></table>",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 1
+                    }
+                },
+                {
+                    "type": "ListItem",
+                    "element_id": "77563686-ee97-45c2-a486-00ff960c1b75",
+                    "text": "125% of Single Premium.",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    653.0000041666666,
+                                    1885.802977638889
+                                ],
+                                [
+                                    653.0000041666666,
+                                    1916.624233888889
+                                ],
+                                [
+                                    1045.5591045321498,
+                                    1916.624233888889
+                                ],
+                                [
+                                    1045.5591045321498,
+                                    1885.802977638889
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 1
+                    }
+                },
+                {
+                    "type": "ListItem",
+                    "element_id": "2c968708-56c6-4606-809d-7ee5e6c9cf0c",
+                    "text": "Absolute amount assured to be paid",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    653.0000041666666,
+                                    1920.8029526388887
+                                ],
+                                [
+                                    653.0000041666666,
+                                    1951.624208888889
+                                ],
+                                [
+                                    1197.3694849190483,
+                                    1951.624208888889
+                                ],
+                                [
+                                    1197.3694849190483,
+                                    1920.8029526388887
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 1
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "5a2ce730-1718-4cb5-9a37-164d703e28cc",
+                    "text": "on death.",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    692.3333479166665,
+                                    1956.1363318055555
+                                ],
+                                [
+                                    692.3333479166665,
+                                    1986.8042484722223
+                                ],
+                                [
+                                    828.1044078868986,
+                                    1986.8042484722223
+                                ],
+                                [
+                                    828.1044078868986,
+                                    1956.1363318055555
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 1
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "c675837f-a5fb-444e-96b3-3dcc02ed807c",
+                    "text": "Absolute amount assured to be paid",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    632.9999916666667,
+                                    2025.8030026388888
+                                ],
+                                [
+                                    632.9999916666667,
+                                    2056.4709193055555
+                                ],
+                                [
+                                    1197.6630642623963,
+                                    2056.4709193055555
+                                ],
+                                [
+                                    1197.6630642623963,
+                                    2025.8030026388888
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 1
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "4e80c992-c8fd-4f49-9ad7-40936f4de4af",
+                    "text": "on death shall be an amount equal to",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    632.9999916666667,
+                                    2061.136381805555
+                                ],
+                                [
+                                    632.9999916666667,
+                                    2091.804298472222
+                                ],
+                                [
+                                    1206.16169,
+                                    2091.804298472222
+                                ],
+                                [
+                                    1206.16169,
+                                    2061.136381805555
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 1
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "85af2365-1d1c-4803-80fc-8cfb264761a8",
+                    "text": "Basic Sum Assured.",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    632.9999916666667,
+                                    2096.469633888889
+                                ],
+                                [
+                                    632.9999916666667,
+                                    2127.1375505555557
+                                ],
+                                [
+                                    923.5925183026233,
+                                    2127.1375505555557
+                                ],
+                                [
+                                    923.5925183026233,
+                                    2096.469633888889
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 1
+                    }
+                },
+                {
+                    "type": "UncategorizedText",
+                    "element_id": "8123f2f8-54ea-4092-943a-79855a283dc2",
+                    "text": "1",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    818.9999895833333,
+                                    2171.8844676388885
+                                ],
+                                [
+                                    818.9999895833333,
+                                    2202.5523843055557
+                                ],
+                                [
+                                    841.2648970833333,
+                                    2202.5523843055557
+                                ],
+                                [
+                                    841.2648970833333,
+                                    2171.8844676388885
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 1
+                    }
+                },
+                {
+                    "type": "Table",
+                    "element_id": "ad9bab19-198b-411f-bca1-e2ffd8c6f25b",
+                    "text": "5. 6. Riders opted, if any Policy Coverage / benefits payable Premiums referred shall not include any extra amount chargeable under the policy due to underwriting decision Not Applicable Benefits payable on death: 1) On death during the Waiting Period: Death Benefit payable, on death of the Life Assured, during the waiting period provided the policy is in-force shall be as under i) In case of Accidental Death equal to “Sum Assured on Death”. ii) In case of death due to other than accident, 100% of all Premiums paid excluding taxes, if any 2) On death after the expiry of Waiting Period: Death Benefit payable, on death of the Life Assured, after the expiry of Waiting Period but before the stipulated Date of Maturity, provided the policy is in-force shall be “Sum Assured on Death”. Benefit payable on maturity: No Maturity Benefit shall be payable. Surrender benefits: Surrender value is not applicable under this Policy. Policy Cancellation Value: Policy cancellation value shall be payable : a) upon the policyholder applying for the same before the stipulated date Condition 1.a of Part C Condition 1.b of Part C Condition 5 of Part D Condition 6",
+                    "metadata": {
+                        "detection_class_prob": 0.7907096147537231,
+                        "coordinates": {
+                            "points": [
+                                [
+                                    99.39457702636719,
+                                    152.99758911132812
+                                ],
+                                [
+                                    99.39457702636719,
+                                    1690.1800537109375
+                                ],
+                                [
+                                    1516.434326171875,
+                                    1690.1800537109375
+                                ],
+                                [
+                                    1516.434326171875,
+                                    152.99758911132812
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 2
+                    }
+                }
+            ],
+            "file_directory": "../../policy_documents",
+            "filename": "Saral Jeevan Bima - CIS  Saral Jeevan Bima .pdf"
+        }
+    },
+    {
+        "type": "CompositeElement",
+        "element_id": "812231ac89e6d862ff24b9b93a24e945",
+        "text": "of maturity\n\nin case of Single\n\npremium Policy; or\n\nof Part D\n\nb) upon the Policyholder applying for\n\nthe same before the stipulated date\n\nof maturity or at the end of revival\n\nperiod if the policy is not revived, in\n\ncase of Limited Premium Payment\n\nPolicies.\n\nThe conditions and formulae to arrive at\n\nPolicy cancellation value have been\n\ndetailed under Condition 6 of Part D of\n\n2\n\n7. Options available (in case of Linked Insurance Products) 8. Option available (in case of Annuity product) 9. Exclusions (events where insurance coverage is not payable), if any. 10. Waiting/ lien Period, if any Policy Document. Not Applicable Not Applicable Suicide Exclusion: The provisions related to claim payment in case of death due to suicide shall be subject to the conditions as specified herein under: Under Regular /Limited Premium Payment policy: This policy shall be void if the Life Assured commits suicide at any time within 12 months from the date of commencement of risk, provided the policy is inforce or within 12 months from the date of revival and the Corporation will not entertain any claim except for 80% of the premiums paid (excluding any extra amount if charged under the policy due to underwriting decisions and taxes) till the date of death. This clause shall not be applicable for a lapsed policy as nothing is payable under such policies. Under Single Premium policy: This policy shall be void if the Life assured commits suicide at any time within 12 months from the date of commencement of risk and the Corporation will not entertain any claim except 90 % of the Single Premium paid excluding any extra amount if charged under the policy due to underwriting decisions, and taxes. Waiting Period means a period of 45 (forty five) days from the Date of Commencement of Risk. In case of revival of Policy, the Waiting period shall not be applicable Condition 4 of Part F Part B - Definitions\n\nThis Policy will cover death due to accident\n\nPart A\n\nonly during the waiting period of 45 days from",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-01-28T17:55:17",
+            "page_number": 2,
+            "orig_elements": [
+                {
+                    "type": "Title",
+                    "element_id": "3692188d-1d34-49ef-bd85-b4d989a80a1a",
+                    "text": "of maturity",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    692.0000083333333,
+                                    1685.802977638889
+                                ],
+                                [
+                                    692.0000083333333,
+                                    1716.4708943055557
+                                ],
+                                [
+                                    867.6351670833333,
+                                    1716.4708943055557
+                                ],
+                                [
+                                    867.6351670833333,
+                                    1685.802977638889
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 2
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "5bf089e2-7abb-4d95-81bc-15925c484ce2",
+                    "text": "in case of Single",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    891.954825,
+                                    1685.802977638889
+                                ],
+                                [
+                                    891.954825,
+                                    1716.4708943055557
+                                ],
+                                [
+                                    1197.5446816805872,
+                                    1716.4708943055557
+                                ],
+                                [
+                                    1197.5446816805872,
+                                    1685.802977638889
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 2
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "094d96e1-2f9d-47b8-91be-95b8141f62c7",
+                    "text": "premium Policy; or",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    692.0000083333333,
+                                    1720.1363963888887
+                                ],
+                                [
+                                    692.0000083333333,
+                                    1750.8043130555557
+                                ],
+                                [
+                                    953.5760137601944,
+                                    1750.8043130555557
+                                ],
+                                [
+                                    953.5760137601944,
+                                    1720.1363963888887
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 2
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "ea27f89d-a554-457b-a897-0142fff25499",
+                    "text": "of Part D",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    1236.6666166666666,
+                                    1668.4696276388886
+                                ],
+                                [
+                                    1236.6666166666666,
+                                    1699.1375443055554
+                                ],
+                                [
+                                    1365.7680037369792,
+                                    1699.1375443055554
+                                ],
+                                [
+                                    1365.7680037369792,
+                                    1668.4696276388886
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 2
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "e36a5b91-ca45-4517-bbca-02bd672778bd",
+                    "text": "b) upon the Policyholder applying for",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    656.9999687499999,
+                                    1794.4697151388884
+                                ],
+                                [
+                                    656.9999687499999,
+                                    1825.1376318055554
+                                ],
+                                [
+                                    1197.6408382690865,
+                                    1825.1376318055554
+                                ],
+                                [
+                                    1197.6408382690865,
+                                    1794.4697151388884
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 2
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "eae5edf7-75ec-40c6-86b8-e95815a8331b",
+                    "text": "the same before the stipulated date",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    692.0000083333333,
+                                    1828.8030068055552
+                                ],
+                                [
+                                    692.0000083333333,
+                                    1859.4709234722222
+                                ],
+                                [
+                                    1197.4650169828503,
+                                    1859.4709234722222
+                                ],
+                                [
+                                    1197.4650169828503,
+                                    1828.8030068055552
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 2
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "c2622459-943b-49ad-9976-598df86d63c7",
+                    "text": "of maturity or at the end of revival",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    692.0000083333333,
+                                    1863.1363005555556
+                                ],
+                                [
+                                    692.0000083333333,
+                                    1893.8042172222224
+                                ],
+                                [
+                                    1197.600387068428,
+                                    1893.8042172222224
+                                ],
+                                [
+                                    1197.600387068428,
+                                    1863.1363005555556
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 2
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "55445896-6ec6-4291-897f-421de2b6205e",
+                    "text": "period if the policy is not revived, in",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    692.0000083333333,
+                                    1897.4697193055554
+                                ],
+                                [
+                                    692.0000083333333,
+                                    1928.1376359722224
+                                ],
+                                [
+                                    1197.5788237508575,
+                                    1928.1376359722224
+                                ],
+                                [
+                                    1197.5788237508575,
+                                    1897.4697193055554
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 2
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "358210d1-b053-4235-b79e-be192fba7e46",
+                    "text": "case of Limited Premium Payment",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    692.0000083333333,
+                                    1932.1362901388889
+                                ],
+                                [
+                                    692.0000083333333,
+                                    1962.8042068055559
+                                ],
+                                [
+                                    1197.6369250390203,
+                                    1962.8042068055559
+                                ],
+                                [
+                                    1197.6369250390203,
+                                    1932.1362901388889
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 2
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "8b107ea6-1734-497f-991d-4eb5e308906c",
+                    "text": "Policies.",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    692.0000083333333,
+                                    1966.4697109722222
+                                ],
+                                [
+                                    692.0000083333333,
+                                    1997.1376276388892
+                                ],
+                                [
+                                    814.2879666750191,
+                                    1997.1376276388892
+                                ],
+                                [
+                                    814.2879666750191,
+                                    1966.4697109722222
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 2
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "64e7e045-9335-4b57-89af-95f323cc96b8",
+                    "text": "The conditions and formulae to arrive at",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    631.9999687499999,
+                                    2002.803048472222
+                                ],
+                                [
+                                    631.9999687499999,
+                                    2033.4709651388887
+                                ],
+                                [
+                                    1197.3231203793616,
+                                    2033.4709651388887
+                                ],
+                                [
+                                    1197.3231203793616,
+                                    2002.803048472222
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 2
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "35eca891-66ae-4600-9a10-6ea432f2116f",
+                    "text": "Policy cancellation value have been",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    631.9999687499999,
+                                    2039.802942222222
+                                ],
+                                [
+                                    631.9999687499999,
+                                    2070.470858888889
+                                ],
+                                [
+                                    1197.4303382681446,
+                                    2070.470858888889
+                                ],
+                                [
+                                    1197.4303382681446,
+                                    2039.802942222222
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 2
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "d7d7e240-08a6-4723-8b41-2e504eb1b032",
+                    "text": "detailed under Condition 6 of Part D of",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    631.9999687499999,
+                                    2076.802960972222
+                                ],
+                                [
+                                    631.9999687499999,
+                                    2107.470877638889
+                                ],
+                                [
+                                    1197.6256066284614,
+                                    2107.470877638889
+                                ],
+                                [
+                                    1197.6256066284614,
+                                    2076.802960972222
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 2
+                    }
+                },
+                {
+                    "type": "UncategorizedText",
+                    "element_id": "4036e58d-389b-4fd9-9e5a-0b3bd3c06207",
+                    "text": "2",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    818.9999895833333,
+                                    2171.8844676388885
+                                ],
+                                [
+                                    818.9999895833333,
+                                    2202.5523843055557
+                                ],
+                                [
+                                    841.2648970833333,
+                                    2202.5523843055557
+                                ],
+                                [
+                                    841.2648970833333,
+                                    2171.8844676388885
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 2
+                    }
+                },
+                {
+                    "type": "Table",
+                    "element_id": "78920159-25bc-40ec-9475-36bad095ea8a",
+                    "text": "7. Options available (in case of Linked Insurance Products) 8. Option available (in case of Annuity product) 9. Exclusions (events where insurance coverage is not payable), if any. 10. Waiting/ lien Period, if any Policy Document. Not Applicable Not Applicable Suicide Exclusion: The provisions related to claim payment in case of death due to suicide shall be subject to the conditions as specified herein under: Under Regular /Limited Premium Payment policy: This policy shall be void if the Life Assured commits suicide at any time within 12 months from the date of commencement of risk, provided the policy is inforce or within 12 months from the date of revival and the Corporation will not entertain any claim except for 80% of the premiums paid (excluding any extra amount if charged under the policy due to underwriting decisions and taxes) till the date of death. This clause shall not be applicable for a lapsed policy as nothing is payable under such policies. Under Single Premium policy: This policy shall be void if the Life assured commits suicide at any time within 12 months from the date of commencement of risk and the Corporation will not entertain any claim except 90 % of the Single Premium paid excluding any extra amount if charged under the policy due to underwriting decisions, and taxes. Waiting Period means a period of 45 (forty five) days from the Date of Commencement of Risk. In case of revival of Policy, the Waiting period shall not be applicable Condition 4 of Part F Part B - Definitions",
+                    "metadata": {
+                        "detection_class_prob": 0.8261317014694214,
+                        "coordinates": {
+                            "points": [
+                                [
+                                    81.79381561279297,
+                                    174.23854064941406
+                                ],
+                                [
+                                    81.79381561279297,
+                                    1771.7965087890625
+                                ],
+                                [
+                                    1555.9024658203125,
+                                    1771.7965087890625
+                                ],
+                                [
+                                    1555.9024658203125,
+                                    174.23854064941406
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 3
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "0138b4f1-a252-4926-a73a-b87f0fff9c35",
+                    "text": "This Policy will cover death due to accident",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    569.3333312499999,
+                                    1794.8029922222222
+                                ],
+                                [
+                                    569.3333312499999,
+                                    1825.470908888889
+                                ],
+                                [
+                                    1197.5388895898009,
+                                    1825.470908888889
+                                ],
+                                [
+                                    1197.5388895898009,
+                                    1794.8029922222222
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 3
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "c91c4fac-12a7-45bd-b247-10dac0762535",
+                    "text": "Part A",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    1218.9999895833332,
+                                    1794.8029922222222
+                                ],
+                                [
+                                    1218.9999895833332,
+                                    1827.218980138889
+                                ],
+                                [
+                                    1309.2642720833333,
+                                    1827.218980138889
+                                ],
+                                [
+                                    1309.2642720833333,
+                                    1794.8029922222222
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 3
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "0ba03fbe-2fb8-4246-9e7a-04f89373770b",
+                    "text": "only during the waiting period of 45 days from",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    569.3333312499999,
+                                    1829.8029672222222
+                                ],
+                                [
+                                    569.3333312499999,
+                                    1860.4708838888891
+                                ],
+                                [
+                                    1197.7317620804645,
+                                    1860.4708838888891
+                                ],
+                                [
+                                    1197.7317620804645,
+                                    1829.8029672222222
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 3
+                    }
+                }
+            ],
+            "file_directory": "../../policy_documents",
+            "filename": "Saral Jeevan Bima - CIS  Saral Jeevan Bima .pdf"
+        }
+    },
+    {
+        "type": "CompositeElement",
+        "element_id": "83fd3d30ac4da76009cce61a4312c192",
+        "text": "the date of commencement of risk.\n\nIn case of death of the life assured other than\n\ndue to accident during the waiting period, an\n\namount equal to 100% of all premiums\n\nreceived excluding taxes, if any, shall be paid\n\nand the Basic Sum Assured shall not be\n\n3\n\n11. Grace period 12. Free Look Period 13. Lapse, paid-up and revival of the Policy 14. Policy Loan, if applicable 15. Claims/ Claims Procedure paid. 30 Days for Yearly, Half-yearly mode of premium payment 15 Days for Monthly mode of premium payment 30 Days The following applicable in case of Regular premium and Limited premium payment policies: Lapse: Lapse is the status of the Policy when due premium is not paid within the grace period and the benefits under the Policy will cease from the date of such unpaid premium. In case of Regular Premium and Limited Premium payment policies, if the premium has not been paid in respect of this policy and any subsequent premium be not duly paid, all the benefits shall cease after the expiry of grace period from the date of first unpaid premium and nothing shall be payable, and the premiums paid till then are also not refundable. However, in case of limited premium payment policies, policy cancellation value is payable on cancellation of policy. Paid-up: Not Applicable. Revival: A policy in lapsed condition may be revived during the life time of the Life Assured, but within the Revival Period and before the date of maturity, as the case may be. Not Applicable Brief procedure and list of documents required including bank account details Condition 3 of Part C Condition 2 of Part D Part B- Definitions Condition 3.aof Part D Condition 4 of Part D Condition 7 of Part D Condition 6 of Part F\n\nTurn Around Time (TAT) for claims\n\nsettlement:\n\nS\n\nService Description of\n\nTAT\n\nNo\n\nItem / Service\n\n1\n\nDeath\n\nDeath claims\n\n15 days\n\nClaims\n\n|\n\nsettlements not\n\nrequiring\n\n4\n\nInvestigations\n\nInvestigations\n\n|\n\nEarly Death\n\n45 days\n\nClaims requiring\n\ninvestigations -\n\ndecision &\n\npayment\n\nSettlement of",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-01-28T17:55:17",
+            "page_number": 3,
+            "orig_elements": [
+                {
+                    "type": "Title",
+                    "element_id": "c9b9ead8-1ea4-49ae-9f95-068b96d876ea",
+                    "text": "the date of commencement of risk.",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    569.3333312499999,
+                                    1865.1363463888888
+                                ],
+                                [
+                                    569.3333312499999,
+                                    1895.8042630555556
+                                ],
+                                [
+                                    1046.575470792386,
+                                    1895.8042630555556
+                                ],
+                                [
+                                    1046.575470792386,
+                                    1865.1363463888888
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 3
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "ed2b9f77-e84a-4832-b4b4-c3af60327fe2",
+                    "text": "In case of death of the life assured other than",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    569.3333312499999,
+                                    1935.1362943055553
+                                ],
+                                [
+                                    569.3333312499999,
+                                    1965.804210972222
+                                ],
+                                [
+                                    1197.3885448818698,
+                                    1965.804210972222
+                                ],
+                                [
+                                    1197.3885448818698,
+                                    1935.1362943055553
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 3
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "1317bfe4-cb2e-466c-98e4-20c068f0e426",
+                    "text": "due to accident during the waiting period, an",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    569.3333312499999,
+                                    1970.469673472222
+                                ],
+                                [
+                                    569.3333312499999,
+                                    2001.137590138889
+                                ],
+                                [
+                                    1197.5987878645406,
+                                    2001.137590138889
+                                ],
+                                [
+                                    1197.5987878645406,
+                                    1970.469673472222
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 3
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "941bd1cb-cb22-4049-bb1a-43342ace3d77",
+                    "text": "amount equal to 100% of all premiums",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    569.3333312499999,
+                                    2005.4696484722222
+                                ],
+                                [
+                                    569.3333312499999,
+                                    2036.137565138889
+                                ],
+                                [
+                                    1197.3585957905018,
+                                    2036.137565138889
+                                ],
+                                [
+                                    1197.3585957905018,
+                                    2005.4696484722222
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 3
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "ea1f1f1d-7a37-4cad-b09b-50f0dace3672",
+                    "text": "received excluding taxes, if any, shall be paid",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    569.3333312499999,
+                                    2040.8030276388886
+                                ],
+                                [
+                                    569.3333312499999,
+                                    2071.4709443055553
+                                ],
+                                [
+                                    1197.3735703821874,
+                                    2071.4709443055553
+                                ],
+                                [
+                                    1197.3735703821874,
+                                    2040.8030276388886
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 3
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "cfcd835f-3164-4ac0-8721-a8c6de3a69cc",
+                    "text": "and the Basic Sum Assured shall not be",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    569.3333312499999,
+                                    2075.8030026388888
+                                ],
+                                [
+                                    569.3333312499999,
+                                    2106.4709193055555
+                                ],
+                                [
+                                    1197.3843520869748,
+                                    2106.4709193055555
+                                ],
+                                [
+                                    1197.3843520869748,
+                                    2075.8030026388888
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 3
+                    }
+                },
+                {
+                    "type": "UncategorizedText",
+                    "element_id": "ccc80db0-89fb-4e12-8283-c588e1f2273f",
+                    "text": "3",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    818.9999895833333,
+                                    2171.8844676388885
+                                ],
+                                [
+                                    818.9999895833333,
+                                    2202.5523843055557
+                                ],
+                                [
+                                    841.2648970833333,
+                                    2202.5523843055557
+                                ],
+                                [
+                                    841.2648970833333,
+                                    2171.8844676388885
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 3
+                    }
+                },
+                {
+                    "type": "Table",
+                    "element_id": "215ded19-4dfd-4f50-9a38-a2cb7ab00511",
+                    "text": "11. Grace period 12. Free Look Period 13. Lapse, paid-up and revival of the Policy 14. Policy Loan, if applicable 15. Claims/ Claims Procedure paid. 30 Days for Yearly, Half-yearly mode of premium payment 15 Days for Monthly mode of premium payment 30 Days The following applicable in case of Regular premium and Limited premium payment policies: Lapse: Lapse is the status of the Policy when due premium is not paid within the grace period and the benefits under the Policy will cease from the date of such unpaid premium. In case of Regular Premium and Limited Premium payment policies, if the premium has not been paid in respect of this policy and any subsequent premium be not duly paid, all the benefits shall cease after the expiry of grace period from the date of first unpaid premium and nothing shall be payable, and the premiums paid till then are also not refundable. However, in case of limited premium payment policies, policy cancellation value is payable on cancellation of policy. Paid-up: Not Applicable. Revival: A policy in lapsed condition may be revived during the life time of the Life Assured, but within the Revival Period and before the date of maturity, as the case may be. Not Applicable Brief procedure and list of documents required including bank account details Condition 3 of Part C Condition 2 of Part D Part B- Definitions Condition 3.aof Part D Condition 4 of Part D Condition 7 of Part D Condition 6 of Part F",
+                    "metadata": {
+                        "detection_class_prob": 0.8569257259368896,
+                        "coordinates": {
+                            "points": [
+                                [
+                                    105.12635803222656,
+                                    191.46121215820312
+                                ],
+                                [
+                                    105.12635803222656,
+                                    1822.2711181640625
+                                ],
+                                [
+                                    1519.6871337890625,
+                                    1822.2711181640625
+                                ],
+                                [
+                                    1519.6871337890625,
+                                    191.46121215820312
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 4
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "38323c88-c812-41a4-8cb6-bcb452d833f2",
+                    "text": "Turn Around Time (TAT) for claims",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    583.3333333333333,
+                                    1833.136377638889
+                                ],
+                                [
+                                    583.3333333333333,
+                                    1864.049637638889
+                                ],
+                                [
+                                    1148.0634070889016,
+                                    1864.049637638889
+                                ],
+                                [
+                                    1148.0634070889016,
+                                    1833.136377638889
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 4
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "5e84849e-a9a1-497f-9a7f-6b4b80707945",
+                    "text": "settlement:",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    633.3333333333333,
+                                    1872.802998472222
+                                ],
+                                [
+                                    633.3333333333333,
+                                    1903.470915138889
+                                ],
+                                [
+                                    804.8636633537644,
+                                    1903.470915138889
+                                ],
+                                [
+                                    804.8636633537644,
+                                    1872.802998472222
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 4
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "ea43c5dc-82e2-4dd7-bca4-fd9e3dbbb131",
+                    "text": "S",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    598.6666354166666,
+                                    1954.8368086805558
+                                ],
+                                [
+                                    598.6666354166666,
+                                    1982.504517013889
+                                ],
+                                [
+                                    624.5912781249999,
+                                    1982.504517013889
+                                ],
+                                [
+                                    624.5912781249999,
+                                    1954.8368086805558
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 4
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "163105a0-351e-4f36-91ee-a89431b2eb45",
+                    "text": "Service Description of",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    668.00003125,
+                                    1954.8368086805558
+                                ],
+                                [
+                                    668.00003125,
+                                    1982.504517013889
+                                ],
+                                [
+                                    999.9676897680656,
+                                    1982.504517013889
+                                ],
+                                [
+                                    999.9676897680656,
+                                    1954.8368086805558
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 4
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "72951031-d28a-4f89-989c-23df87c26199",
+                    "text": "TAT",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    1090.3333020833334,
+                                    1954.8368086805558
+                                ],
+                                [
+                                    1090.3333020833334,
+                                    1982.504517013889
+                                ],
+                                [
+                                    1147.9972572916668,
+                                    1982.504517013889
+                                ],
+                                [
+                                    1147.9972572916668,
+                                    1954.8368086805558
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 4
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "0ba9faa6-1505-4914-8b5f-55f89d0c37aa",
+                    "text": "No",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    598.6666354166666,
+                                    1986.836777430556
+                                ],
+                                [
+                                    598.6666354166666,
+                                    2014.504485763889
+                                ],
+                                [
+                                    643.4653025256342,
+                                    2014.504485763889
+                                ],
+                                [
+                                    643.4653025256342,
+                                    1986.836777430556
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 4
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "db51878e-2dcc-48ad-8ae0-ca378a535a4c",
+                    "text": "Item / Service",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    805.66666875,
+                                    1986.836777430556
+                                ],
+                                [
+                                    805.66666875,
+                                    2014.504485763889
+                                ],
+                                [
+                                    992.3347526062032,
+                                    2014.504485763889
+                                ],
+                                [
+                                    992.3347526062032,
+                                    1986.836777430556
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 4
+                    }
+                },
+                {
+                    "type": "UncategorizedText",
+                    "element_id": "b11be1e7-934c-4a96-9124-44a9d3194a91",
+                    "text": "1",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    610.66665625,
+                                    2041.1701461805555
+                                ],
+                                [
+                                    610.66665625,
+                                    2068.837854513889
+                                ],
+                                [
+                                    633.5478510416667,
+                                    2068.837854513889
+                                ],
+                                [
+                                    633.5478510416667,
+                                    2041.1701461805555
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 4
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "6d268c50-3dee-46c8-ba23-dd82bf5d8652",
+                    "text": "Death",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    684.5394375,
+                                    2041.1701461805555
+                                ],
+                                [
+                                    684.5394375,
+                                    2068.837854513889
+                                ],
+                                [
+                                    766.4630895670574,
+                                    2068.837854513889
+                                ],
+                                [
+                                    766.4630895670574,
+                                    2041.1701461805555
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 4
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "418e17aa-0bfc-4740-88f5-c1c4782e7d11",
+                    "text": "Death claims",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    805.66666875,
+                                    2041.1701461805555
+                                ],
+                                [
+                                    805.66666875,
+                                    2068.837854513889
+                                ],
+                                [
+                                    974.4204518937166,
+                                    2068.837854513889
+                                ],
+                                [
+                                    974.4204518937166,
+                                    2041.1701461805555
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 4
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "3effb89d-01c7-4d04-b4a1-7ad59116e06c",
+                    "text": "15 days",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    1066.99994375,
+                                    2041.1701461805555
+                                ],
+                                [
+                                    1066.99994375,
+                                    2068.837854513889
+                                ],
+                                [
+                                    1179.6639510416667,
+                                    2068.837854513889
+                                ],
+                                [
+                                    1179.6639510416667,
+                                    2041.1701461805555
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 4
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "ccb4fc77-c0ff-405c-84cd-95372cf1a9bd",
+                    "text": "Claims",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    679.33330625,
+                                    2073.170117013889
+                                ],
+                                [
+                                    679.33330625,
+                                    2100.837825347222
+                                ],
+                                [
+                                    772.010618419595,
+                                    2100.837825347222
+                                ],
+                                [
+                                    772.010618419595,
+                                    2073.170117013889
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 4
+                    }
+                },
+                {
+                    "type": "UncategorizedText",
+                    "element_id": "a70084a1-d154-4145-8660-bd9baa8e8d82",
+                    "text": "|",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    779.0,
+                                    2070.0
+                                ],
+                                [
+                                    779.0,
+                                    2104.0
+                                ],
+                                [
+                                    791.0,
+                                    2104.0
+                                ],
+                                [
+                                    791.0,
+                                    2070.0
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 4
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "f03c0e6b-32f0-4565-beb6-0c3cc2dd0b44",
+                    "text": "settlements not",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    805.66666875,
+                                    2073.170117013889
+                                ],
+                                [
+                                    805.66666875,
+                                    2100.837825347222
+                                ],
+                                [
+                                    1001.3586405598959,
+                                    2100.837825347222
+                                ],
+                                [
+                                    1001.3586405598959,
+                                    2073.170117013889
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 4
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "556474bf-2f9c-494c-a637-66bf4ee90338",
+                    "text": "requiring",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    805.66666875,
+                                    2105.170212847222
+                                ],
+                                [
+                                    805.66666875,
+                                    2132.8379211805554
+                                ],
+                                [
+                                    920.975301720376,
+                                    2132.8379211805554
+                                ],
+                                [
+                                    920.975301720376,
+                                    2105.170212847222
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 4
+                    }
+                },
+                {
+                    "type": "UncategorizedText",
+                    "element_id": "8c9131dc-8f54-42da-b187-798f2b1445d5",
+                    "text": "4",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    818.9999895833333,
+                                    2171.8844676388885
+                                ],
+                                [
+                                    818.9999895833333,
+                                    2202.5523843055557
+                                ],
+                                [
+                                    841.2648970833333,
+                                    2202.5523843055557
+                                ],
+                                [
+                                    841.2648970833333,
+                                    2171.8844676388885
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 4
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "8d153c1a-f75d-4519-8166-711678df8ceb",
+                    "text": "Investigations",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    808.0,
+                                    197.0
+                                ],
+                                [
+                                    808.0,
+                                    236.0
+                                ],
+                                [
+                                    974.0,
+                                    236.0
+                                ],
+                                [
+                                    974.0,
+                                    197.0
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "d87ba0dc-a26e-43fb-a46e-c88d7148c61c",
+                    "text": "Investigations",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    805.66666875,
+                                    205.17016493055564
+                                ],
+                                [
+                                    805.66666875,
+                                    232.83787326388895
+                                ],
+                                [
+                                    983.3243743518063,
+                                    232.83787326388895
+                                ],
+                                [
+                                    983.3243743518063,
+                                    205.17016493055564
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                },
+                {
+                    "type": "UncategorizedText",
+                    "element_id": "55a65753-4da8-40cc-96e6-153238ffd670",
+                    "text": "|",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    1045.0,
+                                    201.0
+                                ],
+                                [
+                                    1045.0,
+                                    285.0
+                                ],
+                                [
+                                    1048.0,
+                                    285.0
+                                ],
+                                [
+                                    1048.0,
+                                    201.0
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "b3d1682a-14d3-408c-a733-9cfc9fad1fa8",
+                    "text": "Early Death",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    805.66666875,
+                                    291.50348784722235
+                                ],
+                                [
+                                    805.66666875,
+                                    319.1711961805557
+                                ],
+                                [
+                                    958.359671416423,
+                                    319.1711961805557
+                                ],
+                                [
+                                    958.359671416423,
+                                    291.50348784722235
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "f42365b4-3cb6-4c7b-a512-1d92dd32e090",
+                    "text": "45 days",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    1066.6666666666665,
+                                    291.50348784722235
+                                ],
+                                [
+                                    1066.6666666666665,
+                                    319.1711961805557
+                                ],
+                                [
+                                    1171.7247379097491,
+                                    319.1711961805557
+                                ],
+                                [
+                                    1171.7247379097491,
+                                    291.50348784722235
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "f73a8834-069e-4c15-84a0-f41205bfd420",
+                    "text": "Claims requiring",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    805.66666875,
+                                    323.1701795138889
+                                ],
+                                [
+                                    805.66666875,
+                                    350.83788784722225
+                                ],
+                                [
+                                    1013.6756342810031,
+                                    350.83788784722225
+                                ],
+                                [
+                                    1013.6756342810031,
+                                    323.1701795138889
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "1104d184-a510-4514-bfeb-147c85d7b0e1",
+                    "text": "investigations -",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    805.66666875,
+                                    355.17018159722227
+                                ],
+                                [
+                                    805.66666875,
+                                    382.8378899305556
+                                ],
+                                [
+                                    990.4170346276844,
+                                    382.8378899305556
+                                ],
+                                [
+                                    990.4170346276844,
+                                    355.17018159722227
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "9bd6a98f-d74b-4193-9d55-b1cf4ffc530d",
+                    "text": "decision &",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    805.66666875,
+                                    387.1701815972222
+                                ],
+                                [
+                                    805.66666875,
+                                    414.83788993055555
+                                ],
+                                [
+                                    941.232711537677,
+                                    414.83788993055555
+                                ],
+                                [
+                                    941.232711537677,
+                                    387.1701815972222
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "c1d7080d-22e0-4c2e-8cb9-f6c465a10184",
+                    "text": "payment",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    805.66666875,
+                                    419.17015243055573
+                                ],
+                                [
+                                    805.66666875,
+                                    446.83786076388907
+                                ],
+                                [
+                                    920.127978125,
+                                    446.83786076388907
+                                ],
+                                [
+                                    920.127978125,
+                                    419.17015243055573
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "f66d94c8-67c4-4490-a8a0-8911010a99c7",
+                    "text": "Settlement of",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    805.66666875,
+                                    473.1701795138889
+                                ],
+                                [
+                                    805.66666875,
+                                    500.83788784722225
+                                ],
+                                [
+                                    976.9608014351395,
+                                    500.83788784722225
+                                ],
+                                [
+                                    976.9608014351395,
+                                    473.1701795138889
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                }
+            ],
+            "file_directory": "../../policy_documents",
+            "filename": "Saral Jeevan Bima - CIS  Saral Jeevan Bima .pdf"
+        }
+    },
+    {
+        "type": "CompositeElement",
+        "element_id": "83470f557e37fb491b08f31a4abd617a",
+        "text": "Survival, |\n\nMaturity Claims\n\nOn due\n\nSettlement of\n\n2\n\nAnnuity\n\ndate\n\nSurvival Benefits\n\n16. Policy Servicing payments Annuity payments/Pensio n Payments Auto Policy Payments One Action information(Surviv month 3 by al Benefits, before Insurer Maturity Benefits) due date Link for downloading claim form : https://licindia.in/web/guest/download- forms For updated details, we request you to regularly check our website www.licindia.in Turn Around Time (TAT): S Description of Item of TAT No Service 1 Post Policy service requests 7 days concerning mistakes / corrections in the policy document 2 Free look cancellation and 7 days refund from the date of receipt of request 3 Change of Address (KYC 7 days norms to be complied) 4 Registration / Change of 7 days Nomination, Assignment 5 Alteration in original policy 7 days conditions (where applicable) 6 Policy Loan 7 days 7 Decision on Policy revival after 7 days receipt of all requirements 8 Issue of Premium Payment 7 days certificates (PPC) 9 Issue of Duplicate Policy 7 days 10 Premium due intimation One month before due date 11 Surrender or Partial withdrawal 7 days of Policy\n\n5\n\n17. Grievances /Complaints Helpline/Call centre number: 91-022- 68276827 SMS LICHELP<POLICY NUMBER> to 9222492224 WhatsApp No- 8976862090 Contact details of the Insurer: Please contact us at our Branch Office, the details of which are mentioned in the Part A (First Page) of the policy document Alternatively please visit https://licindia.in/branch to locate your Brach Please visit https://licindia.in/web/guest/download- forms for downloading applicable forms and list of documents required including bank account details. For updated details , we request you to regularly visit our website www.licindia.in S Description of Item of Service TAT No 1 Acknowledgement to complaint Immed iately 2 Action on Complaint and Intimation of decision to the complainant 14 days 3 If complaint is NOT resolved, 14 communicate the details to the days Policyholder of the options from including referring the origina complainant to Insurance l date Ombudsman / Consumer Court of receipt of",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-01-28T17:55:17",
+            "page_number": 5,
+            "orig_elements": [
+                {
+                    "type": "Title",
+                    "element_id": "6d72916a-a38b-47ea-890b-8d520c7ea630",
+                    "text": "Survival, |",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    669.0,
+                                    503.0
+                                ],
+                                [
+                                    669.0,
+                                    584.0
+                                ],
+                                [
+                                    800.0,
+                                    584.0
+                                ],
+                                [
+                                    800.0,
+                                    503.0
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "64197442-c80f-4cbf-827e-8127037c44b6",
+                    "text": "Maturity Claims",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    805.66666875,
+                                    505.17018159722227
+                                ],
+                                [
+                                    805.66666875,
+                                    532.8378899305555
+                                ],
+                                [
+                                    1004.5512347444646,
+                                    532.8378899305555
+                                ],
+                                [
+                                    1004.5512347444646,
+                                    505.17018159722227
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "03faa909-aaa2-4e09-acf5-436c597f52e6",
+                    "text": "On due",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    1069.99995,
+                                    552.8368253472223
+                                ],
+                                [
+                                    1069.99995,
+                                    580.5045336805556
+                                ],
+                                [
+                                    1168.634465592448,
+                                    580.5045336805556
+                                ],
+                                [
+                                    1168.634465592448,
+                                    552.8368253472223
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "185539ee-5e4c-40ac-a4fd-aa3ba128d4c9",
+                    "text": "Settlement of",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    805.66666875,
+                                    553.170167013889
+                                ],
+                                [
+                                    805.66666875,
+                                    580.8378753472223
+                                ],
+                                [
+                                    976.9608014351395,
+                                    580.8378753472223
+                                ],
+                                [
+                                    976.9608014351395,
+                                    553.170167013889
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                },
+                {
+                    "type": "UncategorizedText",
+                    "element_id": "1aab21a1-ec74-4d98-ad66-dba3093a0805",
+                    "text": "2",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    610.66665625,
+                                    568.836810763889
+                                ],
+                                [
+                                    610.66665625,
+                                    596.5045190972223
+                                ],
+                                [
+                                    633.5478510416667,
+                                    596.5045190972223
+                                ],
+                                [
+                                    633.5478510416667,
+                                    568.836810763889
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "35817943-6f1e-4855-a8bb-242786a41189",
+                    "text": "Annuity",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    668.00003125,
+                                    584.8368586805555
+                                ],
+                                [
+                                    668.00003125,
+                                    612.5045670138888
+                                ],
+                                [
+                                    768.0276592016595,
+                                    612.5045670138888
+                                ],
+                                [
+                                    768.0276592016595,
+                                    584.8368586805555
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "be97e922-c72d-4293-97f6-4ec7c4f7db08",
+                    "text": "date",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    1088.3333833333334,
+                                    584.8368586805555
+                                ],
+                                [
+                                    1088.3333833333334,
+                                    612.5045670138888
+                                ],
+                                [
+                                    1150.0596083170574,
+                                    612.5045670138888
+                                ],
+                                [
+                                    1150.0596083170574,
+                                    584.8368586805555
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "f84812f2-10d5-494c-8e83-c84dd96cd16d",
+                    "text": "Survival Benefits",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    805.66666875,
+                                    585.1701357638891
+                                ],
+                                [
+                                    805.66666875,
+                                    612.8378440972224
+                                ],
+                                [
+                                    1020.3293938972959,
+                                    612.8378440972224
+                                ],
+                                [
+                                    1020.3293938972959,
+                                    585.1701357638891
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                },
+                {
+                    "type": "Table",
+                    "element_id": "c7905f81-5475-4551-857e-dccad9185c09",
+                    "text": "16. Policy Servicing payments Annuity payments/Pensio n Payments Auto Policy Payments One Action information(Surviv month 3 by al Benefits, before Insurer Maturity Benefits) due date Link for downloading claim form : https://licindia.in/web/guest/download- forms For updated details, we request you to regularly check our website www.licindia.in Turn Around Time (TAT): S Description of Item of TAT No Service 1 Post Policy service requests 7 days concerning mistakes / corrections in the policy document 2 Free look cancellation and 7 days refund from the date of receipt of request 3 Change of Address (KYC 7 days norms to be complied) 4 Registration / Change of 7 days Nomination, Assignment 5 Alteration in original policy 7 days conditions (where applicable) 6 Policy Loan 7 days 7 Decision on Policy revival after 7 days receipt of all requirements 8 Issue of Premium Payment 7 days certificates (PPC) 9 Issue of Duplicate Policy 7 days 10 Premium due intimation One month before due date 11 Surrender or Partial withdrawal 7 days of Policy",
+                    "metadata": {
+                        "detection_class_prob": 0.4753735661506653,
+                        "coordinates": {
+                            "points": [
+                                [
+                                    139.9799346923828,
+                                    589.302734375
+                                ],
+                                [
+                                    139.9799346923828,
+                                    2167.13037109375
+                                ],
+                                [
+                                    1228.56201171875,
+                                    2167.13037109375
+                                ],
+                                [
+                                    1228.56201171875,
+                                    589.302734375
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                },
+                {
+                    "type": "UncategorizedText",
+                    "element_id": "5e2cf132-caba-4985-87e2-ae981dfe349d",
+                    "text": "5",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    818.9999895833333,
+                                    2171.8844676388885
+                                ],
+                                [
+                                    818.9999895833333,
+                                    2202.5523843055557
+                                ],
+                                [
+                                    841.2648970833333,
+                                    2202.5523843055557
+                                ],
+                                [
+                                    841.2648970833333,
+                                    2171.8844676388885
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 5
+                    }
+                },
+                {
+                    "type": "Table",
+                    "element_id": "14ec512a-32b5-4d36-a0df-eeeb0bc6fdba",
+                    "text": "17. Grievances /Complaints Helpline/Call centre number: 91-022- 68276827 SMS LICHELP<POLICY NUMBER> to 9222492224 WhatsApp No- 8976862090 Contact details of the Insurer: Please contact us at our Branch Office, the details of which are mentioned in the Part A (First Page) of the policy document Alternatively please visit https://licindia.in/branch to locate your Brach Please visit https://licindia.in/web/guest/download- forms for downloading applicable forms and list of documents required including bank account details. For updated details , we request you to regularly visit our website www.licindia.in S Description of Item of Service TAT No 1 Acknowledgement to complaint Immed iately 2 Action on Complaint and Intimation of decision to the complainant 14 days 3 If complaint is NOT resolved, 14 communicate the details to the days Policyholder of the options from including referring the origina complainant to Insurance l date Ombudsman / Consumer Court of receipt of",
+                    "metadata": {
+                        "detection_class_prob": 0.8536877036094666,
+                        "coordinates": {
+                            "points": [
+                                [
+                                    106.91031646728516,
+                                    215.162353515625
+                                ],
+                                [
+                                    106.91031646728516,
+                                    1804.4130859375
+                                ],
+                                [
+                                    1638.196533203125,
+                                    1804.4130859375
+                                ],
+                                [
+                                    1638.196533203125,
+                                    215.162353515625
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 6
+                    }
+                }
+            ],
+            "file_directory": "../../policy_documents",
+            "filename": "Saral Jeevan Bima - CIS  Saral Jeevan Bima .pdf"
+        }
+    },
+    {
+        "type": "CompositeElement",
+        "element_id": "71f65d2b6cb9ba927571b5cd7ffebf27",
+        "text": "compl\n\naint\n\nContact\n\ndetails\n\nof Grievance\n\nRedressal Officer of the Insurer:\n\nYou may contact\n\nthe Grievance\n\nRedressal Officer on the address as\n\nmentioned in the Part A (First page)\n\nof the Policy Document.\n\n6\n\nAlternatively the details of Grievance Redressal Officers can be found on the below link: https://licindia.in/web/guest/grievances Part G Link for registering the grievance with the Insurer’s portal: If you are a registered policy holder you can directly register complaint/ grievance and track its status through our Customer Portal (website) www.licindia.in. You can also contact at e-mail id: co_complaints@licindia.com for redressal of any grievances. Link for registering: https://ebiz.licindia.in/D2CPM/?_ga=2.7 2703123.1272923387.1677050657- 120722208.1677050657#Login Contact details of Ombudsman: You can also approach Insurance Ombudsman whose Address and contact details is given in Part A (First page) of the Policy Document. Alternatively the details of Ombudsman can be found on the below link: https://cioins.co.in 022-69038800/69038812\n\nDeclaration by the Policyholder\n\nI have read the above and confirm having noted the details.\n\nPlace:\n\n(Signature of the Policyholder)\n\nDate:\n\nNote:\n\ni. Product related documents including the Customer Information sheet are available on Corporation’s website www.licindia.in\n\nii. In case of any conflict, the terms and conditions mentioned in the policy document shall prevail.\n\n7",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-01-28T17:55:17",
+            "page_number": 6,
+            "text_as_html": "<table><tbody><tr><td>022-69038800/69038812</td><td></td></tr></tbody></table>",
+            "orig_elements": [
+                {
+                    "type": "Title",
+                    "element_id": "5e0b990c-3fc6-4713-be9b-782129b64162",
+                    "text": "compl",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    1081.3332875,
+                                    1779.8368086805558
+                                ],
+                                [
+                                    1081.3332875,
+                                    1807.504517013889
+                                ],
+                                [
+                                    1155.431625426025,
+                                    1807.504517013889
+                                ],
+                                [
+                                    1155.431625426025,
+                                    1779.8368086805558
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 6
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "c117b1ec-8de2-4e8c-bba0-5ff4da59b057",
+                    "text": "aint",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    1081.3332875,
+                                    1811.5035003472221
+                                ],
+                                [
+                                    1081.3332875,
+                                    1839.1712086805555
+                                ],
+                                [
+                                    1133.6022358589678,
+                                    1839.1712086805555
+                                ],
+                                [
+                                    1133.6022358589678,
+                                    1811.5035003472221
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 6
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "980457d8-6a45-499f-8873-6be402df1378",
+                    "text": "Contact",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    583.3333333333333,
+                                    1886.4696588888887
+                                ],
+                                [
+                                    583.3333333333333,
+                                    1917.382918888889
+                                ],
+                                [
+                                    755.887240014863,
+                                    1917.382918888889
+                                ],
+                                [
+                                    755.887240014863,
+                                    1886.4696588888887
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 6
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "7f6b69c4-dd32-4848-830b-e370dfef258f",
+                    "text": "details",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    798.6076479315296,
+                                    1886.4696588888887
+                                ],
+                                [
+                                    798.6076479315296,
+                                    1917.1375755555557
+                                ],
+                                [
+                                    904.1612262611368,
+                                    1917.1375755555557
+                                ],
+                                [
+                                    904.1612262611368,
+                                    1886.4696588888887
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 6
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "5559f578-dd7e-44bb-87b7-adb3a7b89331",
+                    "text": "of Grievance",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    946.8816341778033,
+                                    1886.4696588888887
+                                ],
+                                [
+                                    946.8816341778033,
+                                    1917.1375755555557
+                                ],
+                                [
+                                    1183.08053750741,
+                                    1917.1375755555557
+                                ],
+                                [
+                                    1183.08053750741,
+                                    1886.4696588888887
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 6
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "76eb3d9c-8d93-4375-9f33-d114b2b2f727",
+                    "text": "Redressal Officer of the Insurer:",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    633.3333333333333,
+                                    1926.4696838888885
+                                ],
+                                [
+                                    633.3333333333333,
+                                    1957.1376005555555
+                                ],
+                                [
+                                    1115.38899,
+                                    1957.1376005555555
+                                ],
+                                [
+                                    1115.38899,
+                                    1926.4696838888885
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 6
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "6325b2d3-bdf6-48a9-9b38-978c1c4c3a95",
+                    "text": "You may contact",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    633.3333333333333,
+                                    1966.4697109722222
+                                ],
+                                [
+                                    633.3333333333333,
+                                    1997.1376276388892
+                                ],
+                                [
+                                    913.6209607830921,
+                                    1997.1376276388892
+                                ],
+                                [
+                                    913.6209607830921,
+                                    1966.4697109722222
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 6
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "b342ac83-b7e9-447d-be3b-f5966519ac0f",
+                    "text": "the Grievance",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    935.4871853664254,
+                                    1966.4697109722222
+                                ],
+                                [
+                                    935.4871853664254,
+                                    1997.1376276388892
+                                ],
+                                [
+                                    1155.5950161699905,
+                                    1997.1376276388892
+                                ],
+                                [
+                                    1155.5950161699905,
+                                    1966.4697109722222
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 6
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "ddd3a7dc-0fe3-4d2a-b6c8-72bb88d5600c",
+                    "text": "Redressal Officer on the address as",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    633.3333333333333,
+                                    2001.4696838888885
+                                ],
+                                [
+                                    633.3333333333333,
+                                    2032.1376005555555
+                                ],
+                                [
+                                    1155.5435036690483,
+                                    2032.1376005555555
+                                ],
+                                [
+                                    1155.5435036690483,
+                                    2001.4696838888885
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 6
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "4a3ba967-9645-45ee-be3e-76168a4f7354",
+                    "text": "mentioned in the Part A (First page)",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    633.3333333333333,
+                                    2036.4696588888887
+                                ],
+                                [
+                                    633.3333333333333,
+                                    2067.1375755555555
+                                ],
+                                [
+                                    1155.6830666721924,
+                                    2067.1375755555555
+                                ],
+                                [
+                                    1155.6830666721924,
+                                    2036.4696588888887
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 6
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "446ee7f7-5c4b-4792-8382-c9c1cca666bd",
+                    "text": "of the Policy Document.",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    633.3333333333333,
+                                    2071.803038055555
+                                ],
+                                [
+                                    633.3333333333333,
+                                    2102.470954722222
+                                ],
+                                [
+                                    973.1466682691289,
+                                    2102.470954722222
+                                ],
+                                [
+                                    973.1466682691289,
+                                    2071.803038055555
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 6
+                    }
+                },
+                {
+                    "type": "UncategorizedText",
+                    "element_id": "7433d924-d6e1-45af-9bdd-c997490a4d5e",
+                    "text": "6",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    818.9999895833333,
+                                    2171.8844676388885
+                                ],
+                                [
+                                    818.9999895833333,
+                                    2202.5523843055557
+                                ],
+                                [
+                                    841.2648970833333,
+                                    2202.5523843055557
+                                ],
+                                [
+                                    841.2648970833333,
+                                    2171.8844676388885
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 6
+                    }
+                },
+                {
+                    "type": "Table",
+                    "element_id": "183c32bf-f3ef-4843-a0fe-bd7172be1bb2",
+                    "text": "Alternatively the details of Grievance Redressal Officers can be found on the below link: https://licindia.in/web/guest/grievances Part G Link for registering the grievance with the Insurer’s portal: If you are a registered policy holder you can directly register complaint/ grievance and track its status through our Customer Portal (website) www.licindia.in. You can also contact at e-mail id: co_complaints@licindia.com for redressal of any grievances. Link for registering: https://ebiz.licindia.in/D2CPM/?_ga=2.7 2703123.1272923387.1677050657- 120722208.1677050657#Login Contact details of Ombudsman: You can also approach Insurance Ombudsman whose Address and contact details is given in Part A (First page) of the Policy Document. Alternatively the details of Ombudsman can be found on the below link: https://cioins.co.in 022-69038800/69038812",
+                    "metadata": {
+                        "detection_class_prob": 0.5779199600219727,
+                        "coordinates": {
+                            "points": [
+                                [
+                                    192.09254455566406,
+                                    174.66871643066406
+                                ],
+                                [
+                                    192.09254455566406,
+                                    1451.0555419921875
+                                ],
+                                [
+                                    1533.1922607421875,
+                                    1451.0555419921875
+                                ],
+                                [
+                                    1533.1922607421875,
+                                    174.66871643066406
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "text_as_html": "<table><tbody><tr><td>022-69038800/69038812</td><td></td></tr></tbody></table>",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 7
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "8a20b0ac-5213-4d55-afcf-c2a3789dba3d",
+                    "text": "Declaration by the Policyholder",
+                    "metadata": {
+                        "detection_class_prob": 0.46321114897727966,
+                        "coordinates": {
+                            "points": [
+                                [
+                                    217.48312377929688,
+                                    1493.6273193359375
+                                ],
+                                [
+                                    217.48312377929688,
+                                    1524.8042276388887
+                                ],
+                                [
+                                    649.4949983333333,
+                                    1524.8042276388887
+                                ],
+                                [
+                                    649.4949983333333,
+                                    1493.6273193359375
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 7
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "cbf6678a-a677-41e9-ae70-e8921e1efc87",
+                    "text": "I have read the above and confirm having noted the details.",
+                    "metadata": {
+                        "detection_class_prob": 0.7930672764778137,
+                        "coordinates": {
+                            "points": [
+                                [
+                                    214.8793487548828,
+                                    1581.4124755859375
+                                ],
+                                [
+                                    214.8793487548828,
+                                    1613.4708880555554
+                                ],
+                                [
+                                    1031.3795786020592,
+                                    1613.4708880555554
+                                ],
+                                [
+                                    1031.3795786020592,
+                                    1581.4124755859375
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 7
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "5f8b9899-bfee-437e-91a3-29719ea219e3",
+                    "text": "Place:",
+                    "metadata": {
+                        "detection_class_prob": 0.5828274488449097,
+                        "coordinates": {
+                            "points": [
+                                [
+                                    218.69850158691406,
+                                    1767.136392222222
+                                ],
+                                [
+                                    218.69850158691406,
+                                    1797.8043088888887
+                                ],
+                                [
+                                    321.5143428971354,
+                                    1797.8043088888887
+                                ],
+                                [
+                                    321.5143428971354,
+                                    1767.136392222222
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 7
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "9feb488f-53d4-45a9-9919-978e7bc9150b",
+                    "text": "(Signature of the Policyholder)",
+                    "metadata": {
+                        "detection_class_prob": 0.535202145576477,
+                        "coordinates": {
+                            "points": [
+                                [
+                                    1024.979736328125,
+                                    1766.6063232421875
+                                ],
+                                [
+                                    1024.979736328125,
+                                    1798.0802001953125
+                                ],
+                                [
+                                    1446.4368865959527,
+                                    1798.0802001953125
+                                ],
+                                [
+                                    1446.4368865959527,
+                                    1766.6063232421875
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 7
+                    }
+                },
+                {
+                    "type": "NarrativeText",
+                    "element_id": "f7997f9b-2db1-4cdf-b3da-4b3b5678c22a",
+                    "text": "Date:",
+                    "metadata": {
+                        "detection_class_prob": 0.5827897787094116,
+                        "coordinates": {
+                            "points": [
+                                [
+                                    218.172119140625,
+                                    1821.8030380555551
+                                ],
+                                [
+                                    218.172119140625,
+                                    1852.5750732421875
+                                ],
+                                [
+                                    301.0333258230967,
+                                    1852.5750732421875
+                                ],
+                                [
+                                    301.0333258230967,
+                                    1821.8030380555551
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 7
+                    }
+                },
+                {
+                    "type": "Title",
+                    "element_id": "ec4f99fb-9650-4ed2-997b-1ccefd8956b8",
+                    "text": "Note:",
+                    "metadata": {
+                        "detection_class_prob": 0.7076728940010071,
+                        "coordinates": {
+                            "points": [
+                                [
+                                    217.7978973388672,
+                                    1940.8030276388886
+                                ],
+                                [
+                                    217.7978973388672,
+                                    1971.4709443055556
+                                ],
+                                [
+                                    306.40560210749084,
+                                    1971.4709443055556
+                                ],
+                                [
+                                    306.40560210749084,
+                                    1940.8030276388886
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 7
+                    }
+                },
+                {
+                    "type": "ListItem",
+                    "element_id": "6ad4268c-55f9-4ea4-9e98-44a725b46f1a",
+                    "text": "i. Product related documents including the Customer Information sheet are available on Corporation’s website www.licindia.in",
+                    "metadata": {
+                        "detection_class_prob": 0.8836052417755127,
+                        "coordinates": {
+                            "points": [
+                                [
+                                    259.5848083496094,
+                                    1979.276123046875
+                                ],
+                                [
+                                    259.5848083496094,
+                                    2054.1142578125
+                                ],
+                                [
+                                    1352.7242431640625,
+                                    2054.1142578125
+                                ],
+                                [
+                                    1352.7242431640625,
+                                    1979.276123046875
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 7
+                    }
+                },
+                {
+                    "type": "ListItem",
+                    "element_id": "e3517b1c-ec01-43c0-9d4e-adb2413adc7a",
+                    "text": "ii. In case of any conflict, the terms and conditions mentioned in the policy document shall prevail.",
+                    "metadata": {
+                        "detection_class_prob": 0.8993838429450989,
+                        "coordinates": {
+                            "points": [
+                                [
+                                    268.33331298828125,
+                                    2063.469704722222
+                                ],
+                                [
+                                    268.33331298828125,
+                                    2134.4709234722222
+                                ],
+                                [
+                                    1356.4505615234375,
+                                    2134.4709234722222
+                                ],
+                                [
+                                    1356.4505615234375,
+                                    2063.469704722222
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 7
+                    }
+                },
+                {
+                    "type": "UncategorizedText",
+                    "element_id": "65a7cc47-81c7-46d4-bc46-2f0e14ac9571",
+                    "text": "7",
+                    "metadata": {
+                        "coordinates": {
+                            "points": [
+                                [
+                                    818.9999895833333,
+                                    2171.8844676388885
+                                ],
+                                [
+                                    818.9999895833333,
+                                    2202.5523843055557
+                                ],
+                                [
+                                    841.2648970833333,
+                                    2202.5523843055557
+                                ],
+                                [
+                                    841.2648970833333,
+                                    2171.8844676388885
+                                ]
+                            ],
+                            "system": "PixelSpace",
+                            "layout_width": 1654,
+                            "layout_height": 2339
+                        },
+                        "last_modified": "2025-01-28T17:55:17",
+                        "filetype": "PPM",
+                        "languages": [
+                            "eng"
+                        ],
+                        "page_number": 7
+                    }
+                }
+            ],
+            "file_directory": "../../policy_documents",
+            "filename": "Saral Jeevan Bima - CIS  Saral Jeevan Bima .pdf"
+        }
+    }
+]
